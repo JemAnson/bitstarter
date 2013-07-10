@@ -1,5 +1,5 @@
 
-var buffer= new buffer;
+var buffer= new buffer();
 buffer = fs.readFile("index.html");
 
 var express = require('express');
