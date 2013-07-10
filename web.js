@@ -1,5 +1,5 @@
 
-//var buf= new buffer(256);
+var buf= new buffer(256);
 //buf = fs.readFileSync("index.html");
 //var data = buf.toString('utf8',0,buf.length);
 var data = "Hello";
