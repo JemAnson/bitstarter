@@ -4,7 +4,6 @@
 //var data = buf.toString('utf8',0,buf.length);
 var data = "Hello";
 
-alert(data);
 var express = require('express');
 
 var app = express.createServer(express.logger());
